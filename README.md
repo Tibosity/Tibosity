@@ -9,9 +9,6 @@ discord - skinwalkers (1147169181557596190)
 
 <a href="https://github.com/Tibosity" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibosity&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://www.github.com/Tibosity" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tibosity?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
